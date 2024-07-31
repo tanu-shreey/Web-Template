@@ -1,0 +1,305 @@
+nav {
+    color: black;
+    width: 100%;
+    background-color: #fff;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    font-weight: bold;
+
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+
+    text-decoration: none;
+    padding: 8px;
+    color: black;
+
+}
+
+.background img {
+
+    padding-left: 15%;
+    width: 80%;
+
+
+}
+
+.background {
+
+    background-color: rgb(227, 239, 247);
+    width: 90%;
+
+    margin: 80px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body {
+    height: auto;
+    width: auto;
+    position: relative;
+    overflow-x: hidden;
+}
+
+
+
+.container2 {
+
+    text-align: center;
+    /* width: 90%; */
+    margin: 80px;
+    margin-top: 0;
+  padding: 5%;
+  margin-bottom: 0;
+
+}
+
+.container2 p {
+
+    font-family: 'Cedarville Cursive';
+    font-size: 22px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.btn-2 button {
+    background-color: #0c0202;
+    color: #fff;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    padding: 12px 24px;
+
+}
+
+.container3 {
+
+    background-color: rgb(227, 239, 247);
+
+    width: 90%;
+    margin: 80px;
+    margin-top: 0;
+}
+
+.container3 p {
+    font-family: 'Cedarville Cursive';
+    font-size: 50px;
+    text-align: center;
+}
+
+.container3 .flex {
+    flex-direction: row;
+    display: flex;
+
+
+}
+
+.container3 img {
+    width: 50%;
+
+}
+
+.container4 {
+
+
+
+    width: 90%;
+    margin: 80px;
+    margin-top: 0;
+    
+}
+
+.container4 p {
+    font-family: 'Cedarville Cursive';
+    font-size: 50px;
+
+    padding-left: 35%;
+}
+
+.container4 .flex {
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: auto;
+    margin: 40px;
+}
+
+.container4 img {
+
+    width: 100%;
+
+}
+
+.container4 .img1 {
+    width: 250px;
+    background-color: #fff;
+    text-align: center;
+
+}
+
+
+.container5 p {
+    font-family: 'Cedarville Cursive';
+    font-size: 50px;
+    text-align: center;
+}
+
+.container5 .flex {
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+.container5 img {
+
+    width: 85%;
+    padding: 30px;
+    margin: 30px;
+
+}
+
+.container5 .img2 {
+    width: 30%;
+    padding: 5%;
+}
+
+.container5{
+    width: 90%;
+    margin: 80px;
+    margin-top: 0;
+
+margin-bottom: 0;
+}
+
+.container6 {
+    background-color: rgb(241, 191, 168);
+    width: 80%;
+    margin: 150px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.container6 .flex {
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: auto;
+}
+
+.container6 .para {
+
+    /* font-family: fantasy; */
+    margin: 50px;
+    width: 25%;
+
+}
+
+.container6 img {
+    width: 80%;
+    margin: 35px;
+    margin-left: 50px;
+
+}
+
+.container6 .img3 {
+
+    width: 20%;
+    margin-left: 10%;
+}
+
+.container7 {
+
+    background-color: rgb(42, 39, 38);
+    width: 90%;
+    margin: 80px;
+    bottom: 0;
+    margin-top: 0;
+    color: #fff;
+}
+
+.container7 .flex {
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: auto;
+    align-items: center;
+    text-align: center;
+}
+
+.container7 ol {
+    list-style-type: none;
+
+}
+
+.container7 .list {
+    margin: 50px;
+
+}
+
+.container7 img {
+    margin: 50px;
+
+}
+
+.container4 .box {
+    background-color: rgb(201, 193, 193);
+    width: 160px;
+    margin: 30px;
+    padding: 40px;
+}
+
+.container4 .t-list {
+    text-align: center;
+}
+
+.container .logo {
+    padding-left: 25%;
+}
+
+.nav-flex {
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: auto;
+
+}
+
+.nav-div {
+    padding-left: 45%;
+}
+
+.drop-btn button {
+
+    background-color: #fff;
+    font-weight: bold;
+    border: none;
+}
+
+.drop-content {
+    display: block;
+
+}
+  .nav-div  input[type="text"]{
+   border: none;
+   background-color: rgb(237, 237, 243);
+  
+ }
+ .insta-image{
+
+width: 15%;
+height:50% ;
+
+
+ }
